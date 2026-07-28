@@ -1,11 +1,11 @@
 {
-  "name": "SkyMoled v1.0",
+  "name": "SkyMoled v1.0.1",
   "description": "Amoled theme with sky and forest background",
-  "version": "1.0",
+  "version": "1.0.1",
   "authors": [
     {
-      "name": "razeN",
-      "id": "362736895685296130"
+      "name": "fxzsea",
+      "id": "747171649903"
     }
   ],
   "plus": {
@@ -220,7 +220,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://i.imgur.com/5NYThw2.jpeg",
+    "url": "https://i.imgur.com/j4rQ9s7.png",
     "alpha": 1
   },
   "spec": 2,
