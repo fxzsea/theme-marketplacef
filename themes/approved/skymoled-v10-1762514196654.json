@@ -519,7 +519,7 @@
   },
   "background": {
     "url": "https://i.imgur.com/Uyg42kJ.jpeg",
-    "alpha": 1
+    "alpha": 0.2
   },
   "plus": {
     "version": 0,
